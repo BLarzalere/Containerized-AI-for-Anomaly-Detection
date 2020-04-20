@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+sklearn
+keras
+tensorflow
+flask
+gevent
+requests
